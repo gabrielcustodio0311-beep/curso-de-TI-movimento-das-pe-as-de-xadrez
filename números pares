@@ -1,0 +1,21 @@
+int main (){
+
+int i = 0;
+
+while ( i <= 10){
+
+if ( i % 2 == 0 );
+
+printf("O numero %d é par! /n", i );
+
+i++
+}
+
+Return 0
+
+0 e par
+2 e par 
+4 e par
+6 e par 
+8 e par
+etc...
