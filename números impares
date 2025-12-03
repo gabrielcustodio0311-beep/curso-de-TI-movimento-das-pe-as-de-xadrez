@@ -1,0 +1,24 @@
+int main (){
+
+int i = 0;
+
+while ( i <= 10 ){
+
+if ( i % 2 != 0 ){
+
+printf ("O número % d é impar! /n" , i );
+
+}
+
+i++
+
+}
+
+Return 0
+
+1 e impar
+3 e impar 
+5 e impar
+7 e impar 
+9 e impar 
+etc...
