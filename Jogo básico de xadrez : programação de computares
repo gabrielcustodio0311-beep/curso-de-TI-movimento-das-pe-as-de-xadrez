@@ -1,0 +1,23 @@
+int main (){
+
+int xadrez , rainha , torre , bispo e cavalo
+
+for ("R >= // move 10 casas por todos os lados /n");
+
+do ("T <= // move 6 casas pra cima ou pro lado /n");
+
+while ("B >= // move 11 casas pra vertical /n");
+
+do while ("C >= // move 7 casas em L de lateral aqui /n");
+
+printf ( t , b , r , c >= 7 , 11 , 6 , 10...!  /n");
+
+Printf (se as peças pretas obtiveram um total de 45 pontos de vitoria e as peças brancas obtiveram um total de 22 pontos de vitoria! / n");
+
+}else{
+
+scanf ( as peças brancas obtiveram o maior pontos de vitoria
+
+Return 0
+
+resultado : as peças pretas ganham o jogo ! 
